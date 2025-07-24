@@ -1,8 +1,8 @@
 <p align = "center">
 <img style="max-width: 100%; display: inline-block;" src = "https://user-images.githubusercontent.com/67900051/214878445-7839bdb1-f0fd-4d39-85c1-f4211c2c95bf.gif">
 </p>
-<h1 align="center">Hi 👋, This Is Ayush Jha</h1>
-<h3 align="center">I'm A 1st Year Postgrad. Computer Applications (M.C.A.) Student. I Like To Learn, Plan And Execute Things At My Own Pace. I'm ok With Challenges and Try To Find Out A Way Amidst Of Dire Situations Somehow.</h3>
+<h1 align="center">Hi 👋, This Is Ayush Jha</h1> <br>
+<h3 align="center">I'm A 1st Year Postgrad. Computer Applications (M.C.A.) Student <br> @Indian Institute Of Information Technology, Ranchi [I.I.I.T Ranchi]. <br> I Like To Learn, Plan And Execute Things At My Own Pace. I'm ok With Challenges and Try To Find Out A Way Amidst Of Dire Situations Somehow.</h3>
 <HR>
 <BR>
 <p align="CENTER"> <img src="https://komarev.com/ghpvc/?username=ayushdebugz&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdebugz" /> </p>
