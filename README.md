@@ -1,12 +1,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushdebugz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+<p align="center">
+  <img src="[https://media.giphy.com/media/your-gif-link.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlyMnU1ZDFuZXVsMWpybGJzOGJvZTJ1NHF1OGNtZW55ZTg5eXd2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t7Qb8655Z1VfBGr5XB/giphy.gif)" alt="Welcome GIF" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
 <h3 align="center">
   1st-Year Postgraduate Student (M.C.A.)<br>
   Indian Institute of Information Technology, Ranchi (IIIT Ranchi)<br>
-  Passionate about learning, planning, and executing ideas independently. I thrive on challenges and find a way through the toughest situations.
+  Passionate about learning, planning, and executing ideas independently. <br>
+  I thrive on challenges and find a way through the toughest situations.
 </h3>
 
 <hr>
@@ -96,12 +100,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ayushdebugz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    LinkedIN
   </a>
   
   <a href="https://www.hackerrank.com/ayushjha_aj08" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+    HackerRank
   </a>
+    
   <a href="https://www.figma.com/@ayushjha3" target="_blank">
     Figma
   </a>
