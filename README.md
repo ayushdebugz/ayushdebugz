@@ -1,32 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
+<br>
 <h3 align="center">
-  1st-Year Postgraduate Student (M.C.A.) @<br>
+  1st-Year Postgraduate Student (M.C.A.) @ <br><br>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHo0wo5pBExAJewJioeRF1wHdF5fyguwx3wYbg5q2Yx8kC7G_ekasaCu9BJ75oR8Uhw&usqp=CAU" alt="coding" width="auto" />
 </p>
 </h3>
-
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHo0wo5pBExAJewJioeRF1wHdF5fyguwx3wYbg5q2Yx8kC7G_ekasaCu9BJ75oR8Uhw&usqp=CAU" alt="coding" width="auto" />
-</p>
-
+An Alumnus Of <br> <br>
 <p align="center">
   <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" alt="coding" width="auto" />
-  Alumnus
 </p>
+<br><br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushdebugz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+<br>
 
-<h1 align="center">Hi 👋, I'm Ayush Jha</h1>
-<h3 align="center">
-  1st-Year Postgraduate Student (M.C.A.)<br>
-  Indian Institute of Information Technology, Ranchi (IIIT Ranchi)<br>
-  Passionate about learning, planning, and executing ideas independently. <br>
-  I thrive on challenges and find a way through the toughest situations.
-</h3>
-
+Passionate about learning, planning, and executing ideas independently. <br>
+I thrive on challenges and find a way through the toughest situations.
 <hr>
 
 - 🔭 Currently working on: **Utility Tools for Chrome Extensions**
