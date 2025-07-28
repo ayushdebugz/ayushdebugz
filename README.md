@@ -6,9 +6,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHo0wo5pBExAJewJioeRF1wHdF5fyguwx3wYbg5q2Yx8kC7G_ekasaCu9BJ75oR8Uhw&usqp=CAU" alt="coding" width="auto" />
 </p>
 </h3>
-<p alighn = "center">
-An Alumnus Of
-</p>
+<p align = "center"> An Alumnus Of </p>
 <br> <br>
 <p align="center">
   <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" alt="coding" width="300px" />
