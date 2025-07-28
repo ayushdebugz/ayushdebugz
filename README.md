@@ -28,7 +28,7 @@
 - 🔭 Currently working on: **[NoirShade](https://chromewebstore.google.com/detail/noirshade-dark-mode-exten/mpcdbcckdgcmknomhjmfcnobklikhcih) & [PixDF](https://chromewebstore.google.com/detail/pixdf-jpeg2pdf-converter/ofbpnjamlgpjcjfefcidgjboigafoald)**
 - 🌱 Learning: **Computer Applications & Game Development**
 - 📝 I occasionally blog at: [The Nerdic Geek](https://thenerdicgeek.blogspot.com/)
-- ⚡ Fun fact: **I lie a lot, but I’m great to meet 🍺**
+- ⚡ Fun fact: **I lie a lot, but its nice to meet you 🍺**
 
 <hr>
 
