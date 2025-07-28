@@ -8,7 +8,7 @@
 </h3>
 An Alumnus Of <br> <br>
 <p align="center">
-  <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" alt="coding" width="600px" />
+  <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" alt="coding" width="300px" />
 </p>
 <br><br>
 
