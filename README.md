@@ -29,6 +29,7 @@
 - 🌱 Learning: **Computer Applications & Game Development**
 - 📝 I occasionally blog at: [The Nerdic Geek](https://thenerdicgeek.blogspot.com/)
 - ⚡ Fun fact: **I lie a lot, but its nice to meet you 🍺**
+-  More About ME: **[Developer's Portfolio](https://ayushjha.co.in/)**
 
 <hr>
 
