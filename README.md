@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Ayush Jha</h1>
+<h3 align="center">
+  1st-Year Postgraduate Student (M.C.A.) @<br>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHo0wo5pBExAJewJioeRF1wHdF5fyguwx3wYbg5q2Yx8kC7G_ekasaCu9BJ75oR8Uhw&usqp=CAU" alt="coding" width="auto" />
+</p>
+</h3>
+
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHo0wo5pBExAJewJioeRF1wHdF5fyguwx3wYbg5q2Yx8kC7G_ekasaCu9BJ75oR8Uhw&usqp=CAU" alt="coding" width="auto" />
 </p>
