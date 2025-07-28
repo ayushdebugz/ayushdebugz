@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayushdebugz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <p align="center">
-  <img src="[https://media.giphy.com/media/your-gif-link.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlyMnU1ZDFuZXVsMWpybGJzOGJvZTJ1NHF1OGNtZW55ZTg5eXd2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t7Qb8655Z1VfBGr5XB/giphy.gif)" alt="Welcome GIF" width="100%" />
+  <img src="[[https://media.giphy.com/media/your-gif-link.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlyMnU1ZDFuZXVsMWpybGJzOGJvZTJ1NHF1OGNtZW55ZTg5eXd2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t7Qb8655Z1VfBGr5XB/giphy.gif)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlyMnU1ZDFuZXVsMWpybGJzOGJvZTJ1NHF1OGNtZW55ZTg5eXd2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t7Qb8655Z1VfBGr5XB/giphy.gif)" alt="Welcome GIF" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
