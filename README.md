@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
 <br>
 <h3 align="center">
-  1st-Year Postgraduate Student (M.C.A.) @ <br><br>
+  Pursuing My Master, Computer Application @ <br><br>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHo0wo5pBExAJewJioeRF1wHdF5fyguwx3wYbg5q2Yx8kC7G_ekasaCu9BJ75oR8Uhw&usqp=CAU" alt="coding" width="auto" />
 </p>
@@ -23,7 +23,7 @@ Passionate about learning, planning, and executing ideas independently. <br>
 I thrive on challenges and find a way through the toughest situations.
 <hr>
 
-- 🔭 Currently working on: **Utility Tools for Chrome Extensions**
+- 🔭 Currently working on: **[NoirShade](https://chromewebstore.google.com/detail/noirshade-dark-mode-exten/mpcdbcckdgcmknomhjmfcnobklikhcih) & [PixDF](https://chromewebstore.google.com/detail/pixdf-jpeg2pdf-converter/ofbpnjamlgpjcjfefcidgjboigafoald)**
 - 🌱 Learning: **Computer Applications & Game Development**
 - 📝 I occasionally blog at: [The Nerdic Geek](https://thenerdicgeek.blogspot.com/)
 - ⚡ Fun fact: **I lie a lot, but I’m great to meet 🍺**
