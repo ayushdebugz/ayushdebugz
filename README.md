@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
 </p>
 
-### Tools & Technologies I Use >>>
+### 🛠️ 💻 Tools & Technologies
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
@@ -81,12 +81,13 @@
   <a href="https://linkedin.com/in/ayushdebugz" target="_blank" style="text-decoration: none;">
     LinkedIN
   </a>
-  
+   <br>
   <a href="https://www.hackerrank.com/ayushjha_aj08" target="_blank" style="text-decoration: none;">
     HackerRank
   </a>
-    
+    <br>
   <a href="https://www.figma.com/@ayushjha3" target="_blank" style="text-decoration: none;">
     Figma
   </a>
+   <br>
 </p>
