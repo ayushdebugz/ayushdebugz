@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" alt="coding" width="auto" />
+  Alumnus
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushdebugz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
