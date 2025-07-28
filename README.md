@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
 <br>
 <h3 align="center">
-  Pursuing My Master, Computer Application @ <br><br>
+  Pursuing My Master's, Computer Applications @ <br><br>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHo0wo5pBExAJewJioeRF1wHdF5fyguwx3wYbg5q2Yx8kC7G_ekasaCu9BJ75oR8Uhw&usqp=CAU" alt="coding" width="auto" />
 </p>
