@@ -25,11 +25,13 @@
 
 <hr>
 <p align="center">
+  
 - 🔭 Currently working on: **[NoirShade](https://chromewebstore.google.com/detail/noirshade-dark-mode-exten/mpcdbcckdgcmknomhjmfcnobklikhcih) & [PixDF](https://chromewebstore.google.com/detail/pixdf-jpeg2pdf-converter/ofbpnjamlgpjcjfefcidgjboigafoald)**
 - 🌱 Learning: **Computer Applications & Game Development**
 - 📝 I occasionally blog at: [The Nerdic Geek](https://thenerdicgeek.blogspot.com/)
 - ⚡ My ETHOS: **STOIC | GRIND | GLORY**
 - ℹ️ About ME: **[Developer's Portfolio](https://ayushjha.co.in/)**
+
 </p>
 <hr>
 
