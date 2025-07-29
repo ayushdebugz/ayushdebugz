@@ -35,11 +35,11 @@
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ayushdebugz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
+<p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushdebugz&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
