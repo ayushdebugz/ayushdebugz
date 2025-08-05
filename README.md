@@ -41,10 +41,9 @@
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ayushdebugz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">&nbsp;
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushdebugz&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<br>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github" alt="GitHub Grade Badge"/>
