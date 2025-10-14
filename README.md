@@ -18,19 +18,14 @@
 </p>
 <br><br>
 
-<p align="center">
- Passionate about learning, planning, and executing ideas independently. <br>
- I thrive on challenges and find a way through the toughest situations.
-</p>
-
 <hr>
 <p align="center">
   
 - 🔭 Currently working on: **[NoirShade](https://chromewebstore.google.com/detail/noirshade-dark-mode-exten/mpcdbcckdgcmknomhjmfcnobklikhcih) & [PixDF](https://chromewebstore.google.com/detail/pixdf-jpeg2pdf-converter/ofbpnjamlgpjcjfefcidgjboigafoald)**
-- 🌱 Learning: **Computer Applications & Game Development**
+- 🌱 Learning: **AI/ML & Entrepreneurship**
 - 📝 I occasionally blog at: [The Nerdic Geek](https://thenerdicgeek.blogspot.com/)
 - ⚡ My ETHOS: **STOIC | GRIND | GLORY**
-- ℹ️ About ME: **[Developer's Portfolio](https://ayushjha.co.in/)**
+- ℹ️ About ME: **[Developer's Portfolio]()**
 
 </p>
 <hr>
