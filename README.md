@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=ayushdebugz&label=Profile%20Views&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Ayush Jha</h1>
+<h1>Ayush Jha</h1>
 
-<p align="center">
+<p>
   <b>MCA <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b><br/>
   Founder<a href = "https://amatyapathsolutions.netlify.app"> @ Amatyapath Solutions</a> <br>
   > A Sole-Prop. DigiTech Agency
@@ -13,7 +13,7 @@
 
 <br>
 
-<p align="center">
+<p>
 ## 🚀 Current Focus
 
 Building Useful Browser Extensions And Tools  
@@ -23,7 +23,7 @@ Choosing Long-Term Growth Over Short-Term Hype
 
 </p>
 
-<p align="center">
+<p >
 
 ## 🌑 Noirshade – Dark Mode Browser Extension
 
@@ -42,7 +42,7 @@ Opinionated, Minimal, And Distraction Free
 
 <br>
 
-<p align="center">
+<p>
 ## 🖼 Pixdf – Images And Pdfs, Under Control
 
 <p>
@@ -59,7 +59,7 @@ Meant For Students, Developers, And Knowledge Workers
 </p>
 <br>
 
-<p align="center">
+<p>
 ## 📚 Edu Kits – From Confused To Capable
 
 **Python Edu Kit**  
@@ -87,7 +87,7 @@ Built To Help Students Go Beyond Theory
 
 <br>
 
-<p align="center">
+<p >
 
 ## ✍ Writing And Presence
 
@@ -97,7 +97,7 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 
 <br>
 
-<p align="center">
+<p >
 ## 🚩 Featured Repositories
 
   
@@ -112,7 +112,7 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 
 <br>
 
-<p align="center">
+<p>
 ### 🌐 Connect
 
 🔗 LinkedIn: [in/ayushdebugz](https://www.linkedin.com/in/ayushdebugz)  
