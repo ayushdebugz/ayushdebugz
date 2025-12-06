@@ -1,104 +1,106 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushdebugz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-<br>
-<h1 align="center">Hi 👋, I'm Ayush Jha</h1>
-<br>
-<h3 align="center">
-  Pursuing My Master's, Computer Applications @ <br><br>
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHo0wo5pBExAJewJioeRF1wHdF5fyguwx3wYbg5q2Yx8kC7G_ekasaCu9BJ75oR8Uhw&usqp=CAU" alt="coding" width="auto" />
-</p>
-</h3>
-<br>
-<p align = "center"> An Alumnus Of </p>
-<br> 
-<p align="center">
-  <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" alt="coding" width="300px" />
-</p>
-<br><br>
-
-<hr>
-<p align="center">
-  
-- 🔭 Currently working on: **[NoirShade](https://chromewebstore.google.com/detail/noirshade-dark-mode-exten/mpcdbcckdgcmknomhjmfcnobklikhcih) & [PixDF](https://chromewebstore.google.com/detail/pixdf-jpeg2pdf-converter/ofbpnjamlgpjcjfefcidgjboigafoald)**
-- 🌱 Learning: **AI/ML & Entrepreneurship**
-- 📝 I occasionally blog at: [The Nerdic Geek](https://thenerdicgeek.blogspot.com/)
-- ⚡ My ETHOS: **STOIC | GRIND | GLORY**
-- ℹ️ About ME: **[Developer's Portfolio]()**
-
-</p>
-<hr>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ayushdebugz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<!-- Profile Views (optional, keep or remove) -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ayushdebugz&label=Profile%20Views&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushdebugz&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github" alt="GitHub Grade Badge"/>
-</p>
-
-<hr>
-
-### 💻 Programming Languages
+<h1 align="center">Hi, I'm Ayush Jha</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <b>MCA @ MIT-WPU</b> • <b>Alumnus, IIIT Ranchi</b> <br/>
+  Developer • Frontend & Product • Indie Builder
 </p>
 
-### 🌐 Front-End Development
+---
+
+### ⚙️ What I'm working on
+
+- 🌓 <b>NoirShade</b> – a polished dark-mode extension focused on usability & aesthetics.  
+- 🖼️ <b>PixDF</b> – a browser tool for working with images & PDFs efficiently.  
+- 📚 <b>Python Edu Kit</b> & <b>JavaScript Edu Kit</b> – beginner-friendly repos for students & self-learners.  
+- 🧠 Exploring <b>AI/ML</b> + <b>Entrepreneurship & bootstrapped products</b>.
+
+---
+
+### 🧩 Technical Snapshot
+
+**Languages**
+
+- Python, JavaScript, C, C++, Java, PHP
+
+**Frontend / UI**
+
+- React, HTML5, CSS3, Vanilla JS  
+- Familiar with design systems, responsive layouts, and accessibility basics
+
+**Tools & Platforms**
+
+- Git, GitHub, npm  
+- Figma (UI/UX), Android basics, OpenCV, Unity, Blender (for experiments & prototypes)
+
+**What I enjoy building**
+
+- Browser extensions and developer utilities  
+- Clean, minimal dashboards and landing pages  
+- Educational / reference-style repositories
+
+---
+
+### 📊 GitHub Overview (Graphs, not grades)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ayushdebugz&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues&hide_title=true" 
+    alt="Ayush's GitHub stats" 
+  />
 </p>
-
-### 🛠️ 💻 Tools & Technologies
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-</p>
-
-<hr>
-
-### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushdebugz" alt="trophies" />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdebugz&layout=compact&langs_count=8&card_width=360" 
+    alt="Top Languages"
+  />
 </p>
-
-<hr>
-
-### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayushdebugz" target="_blank" style="text-decoration: none;">
-    LinkedIN
-  </a>
-   <br>
-  <a href="https://www.hackerrank.com/ayushjha_aj08" target="_blank" style="text-decoration: none;">
-    HackerRank
-  </a>
-    <br>
-  <a href="https://www.figma.com/@ayushjha3" target="_blank" style="text-decoration: none;">
-    Figma
-  </a>
-   <br>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdebugz&custom_title=Contribution%20Graph&hide_border=true"
+    alt="Contribution graph"
+  />
 </p>
+
+---
+
+### 🚀 Selected Work
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [NoirShade](https://chromewebstore.google.com/detail/noirshade/)</a> | Opinionated dark-mode extension focused on readable contrast and minimal UI. | JS, CSS, Browser APIs |
+| [PixDF](https://chromewebstore.google.com/detail/pixdf/)</a> | Workflow helper for working with images & PDFs inside the browser. | JS, Browser APIs |
+| [Python Edu Kit](https://github.com/ayushdebugz/python-edu-kit) | Beginner-friendly Python programs for learning core concepts step by step. | Python |
+| [JavaScript Edu Kit](https://github.com/ayushdebugz/javascript-edu-kit) | Curated JS projects, snippets & examples for practice. | JavaScript |
+| [Meta Front-End Coursera](https://github.com/ayushdebugz/meta-front-end-coursera) | All assignments & projects from the Meta Front-End Developer Professional Certificate. | JS, HTML, CSS, React |
+
+---
+
+### 📝 Writing & Ethos
+
+- I occasionally blog at **[The Nerdic Geek](https://thenerdicgeek.blogspot.com/)**  
+- Personal portfolio: **[Developer’s Portfolio](https://ayu5hjha.netlify.app/)**  
+
+> STOIC • GRIND • GLORY  
+> Long-term game. No shortcuts.
+
+---
+
+### 🌐 Connect
+
+- 🔗 LinkedIn: [in/ayushdebugz](https://www.linkedin.com/in/ayushdebugz)  
+- 🎯 HackerRank: [Profile](https://www.hackerrank.com/)  
+- 🎨 Figma: [Profile](https://www.figma.com/)  
+
+---
+
+<!-- You can keep this section for quick tweaks later:
+- TODO: Add more product screenshots / GIFs of NoirShade & PixDF
+- TODO: Pin best 3–4 repos to profile
+-->
