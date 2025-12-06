@@ -12,8 +12,7 @@
 </p>
 
 <br>
----
-
+<p align="center">
 ## 🚀 Current Focus
 
 - Building Useful Browser Extensions And Tools  
@@ -105,7 +104,7 @@
 - 🎨 Figma: [Profile](https://www.figma.com/@ayushjha3)
 
 ---
-
+</p>
 <!-- You can keep this section for quick tweaks later:
 - TODO: Add more product screenshots / GIFs of NoirShade & PixDF
 - TODO: Pin best 3–4 repos to profile
