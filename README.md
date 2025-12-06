@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>MCA <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b><br/>
-  Founder<a href = "https://amatyapathsolutions.netlify.app">@Amatyapath Solutions</a>
+  Founder<a href = "https://amatyapathsolutions.netlify.app">@Amatyapath Solutions</a> <br>
   > A Sole-Prop. DigiTech Agency
 </p>
 
