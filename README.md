@@ -6,7 +6,7 @@
 <h1 align="center">Ayush Jha</h1>
 
 <p align="center">
-  <b>MCA <a href = "https://amatyapathsolutions.netlify.app">@I.I.I.T Ranchi</a></b> • <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT -WPU</a></b><br/>
+  <b>MCA <a href = "https://iiitranchi.ac.in/">@I.I.I.T Ranchi</a></b> • <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT -WPU</a></b><br/>
   Founder<a href = "https://amatyapathsolutions.netlify.app">@ Amatyapath Solutions</a>
   > A Sole-Prop. DigiTech Agency
 </p>
