@@ -14,7 +14,7 @@
 <br>
 
 <p>
-## 🚀 Current Focus
+🚀 Current Focus
 
 Building Useful Browser Extensions And Tools  
 Designing Frictionless, Minimal Web Experiences  
@@ -25,7 +25,7 @@ Choosing Long-Term Growth Over Short-Term Hype
 
 <p >
 
-## 🌑 Noirshade – Dark Mode Browser Extension
+🌑 Noirshade – Dark Mode Browser Extension
 
 <p>
   <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png" width="auto"/>
@@ -43,7 +43,7 @@ Opinionated, Minimal, And Distraction Free
 <br>
 
 <p>
-## 🖼 Pixdf – Images And Pdfs, Under Control
+🖼 Pixdf – Images And Pdfs, Under Control
 
 <p>
   <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png" />
@@ -60,7 +60,7 @@ Meant For Students, Developers, And Knowledge Workers
 <br>
 
 <p>
-## 📚 Edu Kits – From Confused To Capable
+📚 Edu Kits – From Confused To Capable
 
 **Python Edu Kit**  
 Step-By-Step Programs For Core Concepts  
@@ -76,7 +76,7 @@ Built To Help Students Go Beyond Theory
 <br>
 
 
-## 📊 Github In Numbers
+📊 Github In Numbers
 
 <p align="center">
   <img
@@ -89,7 +89,7 @@ Built To Help Students Go Beyond Theory
 
 <p >
 
-## ✍ Writing And Presence
+✍ Writing And Presence
 
 Blog: 
 Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)  
@@ -98,7 +98,7 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 <br>
 
 <p >
-## 🚩 Featured Repositories
+🚩 Featured Repositories
 
   
   | Project Name        | Description                           | Tech Stack      |
@@ -113,7 +113,7 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 <br>
 
 <p>
-### 🌐 Connect
+🌐 Connect
 
 🔗 LinkedIn: [in/ayushdebugz](https://www.linkedin.com/in/ayushdebugz)  
 ℹ️ Instagram: [Profile](https://www.instagram.com/ayu5hxjha/#)  
