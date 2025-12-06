@@ -6,18 +6,18 @@
 <h1 align="center">Hi, I'm Ayush Jha</h1>
 
 <p align="center">
-  <b>MCA @ MIT-WPU</b> • <b>Alumnus, IIIT Ranchi</b> <br/>
-  Developer • Frontend & Product • Indie Builder
+  <b>MCA @IIIT-Ranchi</b> • <b>Alumnus:</b> MIT-WPU<br/>
+  Founder • Developer • Indie Builder
 </p>
 
 ---
 
-### ⚙️ What I'm working on
+### ⚙️ What I'm Working On
 
 - 🌓 <b>NoirShade</b> – a polished dark-mode extension focused on usability & aesthetics.  
 - 🖼️ <b>PixDF</b> – a browser tool for working with images & PDFs efficiently.  
 - 📚 <b>Python Edu Kit</b> & <b>JavaScript Edu Kit</b> – beginner-friendly repos for students & self-learners.  
-- 🧠 Exploring <b>AI/ML</b> + <b>Entrepreneurship & bootstrapped products</b>.
+- 🧠 Exploring <b>AI/ML</b> + <b>Entrepreneurship & Finance Management</b>.
 
 ---
 
@@ -25,7 +25,7 @@
 
 **Languages**
 
-- Python, JavaScript, C, C++, Java, PHP
+- Python, JavaScript, C, C++, PHP
 
 **Frontend / UI**
 
@@ -35,7 +35,7 @@
 **Tools & Platforms**
 
 - Git, GitHub, npm  
-- Figma (UI/UX), Android basics, OpenCV, Unity, Blender (for experiments & prototypes)
+- Figma (UI/UX), Android Basics, OpenCV, Unity, Blender (for experiments & prototypes)
 
 **What I enjoy building**
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Overview (Graphs, not grades)
+### 📊 GitHub Overview
 
 <p align="center">
   <img 
@@ -83,20 +83,19 @@
 ---
 
 ### 📝 Writing & Ethos
-
-- I occasionally blog at **[The Nerdic Geek](https://thenerdicgeek.blogspot.com/)**  
+ 
 - Personal portfolio: **[Developer’s Portfolio](https://ayu5hjha.netlify.app/)**  
 
 > STOIC • GRIND • GLORY  
-> Long-term game. No shortcuts.
+
 
 ---
 
 ### 🌐 Connect
 
 - 🔗 LinkedIn: [in/ayushdebugz](https://www.linkedin.com/in/ayushdebugz)  
-- 🎯 HackerRank: [Profile](https://www.hackerrank.com/)  
-- 🎨 Figma: [Profile](https://www.figma.com/)  
+- ℹ️ Instagram: [Profile](https://www.instagram.com/ayu5hxjha/#)  
+- 🎨 Figma: [Profile](https://www.figma.com/@ayushjha3)
 
 ---
 
