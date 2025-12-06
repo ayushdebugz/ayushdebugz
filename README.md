@@ -12,15 +12,18 @@
 </p>
 
 <br>
+
 <p align="center">
 ## 🚀 Current Focus
 
-- Building Useful Browser Extensions And Tools  
-- Designing Frictionless, Minimal Web Experiences  
-- Exploring AI, Product Thinking, And Indie Building  
-- Choosing Long-Term Growth Over Short-Term Hype  
+Building Useful Browser Extensions And Tools  
+Designing Frictionless, Minimal Web Experiences  
+Exploring AI, Product Thinking, And Indie Building  
+Choosing Long-Term Growth Over Short-Term Hype
 
----
+</p>
+
+<p align="center">
 
 ## 🌑 Noirshade – Dark Mode Browser Extension
 
@@ -28,41 +31,50 @@
   <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png" width="auto"/>
 </p>
 
-- Designed For People Who Actually Work At Night  
-- Focused On Readability, Contrast, And Calm UI  
-- Opinionated, Minimal, And Distraction Free  
+Designed For People Who Actually Work At Night  
+Focused On Readability, Contrast, And Calm UI  
+Opinionated, Minimal, And Distraction Free  
 
 > Smart Dark Mode, Not Just Inverted Colors.
 
----
 
+</p>
+
+<br>
+
+<p align="center">
 ## 🖼 Pixdf – Images And Pdfs, Under Control
 
 <p>
   <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png" />
 </p>
 
-- Streamlines Image And Pdf Workflows Inside The Browser  
-- Built To Be Fast, Simple, And Practical  
-- Meant For Students, Developers, And Knowledge Workers  
+Streamlines Image And Pdf Workflows Inside The Browser  
+Built To Be Fast, Simple, And Practical  
+Meant For Students, Developers, And Knowledge Workers  
 
 > Small Utility, Big Quality Of Life Upgrade.
 
----
 
+</p>
+<br>
+
+<p align="center">
 ## 📚 Edu Kits – From Confused To Capable
 
 **Python Edu Kit**  
-- Step-By-Step Programs For Core Concepts  
-- Clean, Commented, And Beginner Friendly  
+Step-By-Step Programs For Core Concepts  
+Clean, Commented, And Beginner Friendly  
 
 **Javascript Edu Kit**  
-- Practical Snippets, Mini Projects, And Patterns  
-- Built To Help Students Go Beyond Theory  
+Practical Snippets, Mini Projects, And Patterns  
+Built To Help Students Go Beyond Theory  
 
 > Made For Juniors, Friends, And Anyone Starting Out.
 
----
+</p>
+<br>
+
 
 ## 📊 Github In Numbers
 
@@ -73,35 +85,39 @@
   />
 </p>
 
----
+<br>
+
+<p align="center">
 
 ## ✍ Writing And Presence
 
-- Blog: 
-- Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)  
+Blog: 
+Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)  
+</p>
 
----
-
-
-## 🚩 Featured Repositories
+<br>
 
 <p align="center">
+## 🚩 Featured Repositories
+
   
-| Project Name        | Description                           | Tech Stack      |
-|---------------------|---------------------------------------|-----------------|
-| Python Edu Kit      | Beginner Friendly Python Programs     | Python          |
-| Javascript Edu Kit  | Practical Javascript Learning Repo    | Javascript      |
-| Meta Front-End Repo | Projects From Meta Front-End Program  | Html, Css, Js   |
+  | Project Name        | Description                           | Tech Stack      |
+  |---------------------|---------------------------------------|-----------------|
+  | Python Edu Kit      | Beginner Friendly Python Programs     | Python          |
+  | Javascript Edu Kit  | Practical Javascript Learning Repo    | Javascript      |
+  | Meta Front-End Repo | Projects From Meta Front-End Program  | Html, Css, Js   |
 
 </p>
 
----
 
+<br>
+
+<p align="center">
 ### 🌐 Connect
 
-- 🔗 LinkedIn: [in/ayushdebugz](https://www.linkedin.com/in/ayushdebugz)  
-- ℹ️ Instagram: [Profile](https://www.instagram.com/ayu5hxjha/#)  
-- 🎨 Figma: [Profile](https://www.figma.com/@ayushjha3)
+🔗 LinkedIn: [in/ayushdebugz](https://www.linkedin.com/in/ayushdebugz)  
+ℹ️ Instagram: [Profile](https://www.instagram.com/ayu5hxjha/#)  
+🎨 Figma: [Profile](https://www.figma.com/@ayushjha3)
 
 ---
 </p>
