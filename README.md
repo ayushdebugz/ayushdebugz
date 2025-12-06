@@ -87,11 +87,13 @@
 ## 🚩 Featured Repositories
 
 <p align="center">
+  
 | Project Name        | Description                           | Tech Stack      |
 |---------------------|---------------------------------------|-----------------|
 | Python Edu Kit      | Beginner Friendly Python Programs     | Python          |
 | Javascript Edu Kit  | Practical Javascript Learning Repo    | Javascript      |
 | Meta Front-End Repo | Projects From Meta Front-End Program  | Html, Css, Js   |
+
 </p>
 
 ---
