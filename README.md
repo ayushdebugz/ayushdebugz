@@ -25,7 +25,7 @@
 
 ## 🌑 Noirshade – Dark Mode Browser Extension
 
-<p align="center">
+<p>
   <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png" width="auto"/>
 </p>
 
@@ -39,8 +39,8 @@
 
 ## 🖼 Pixdf – Images And Pdfs, Under Control
 
-<p align="center">
-  <img src="" />
+<p>
+  <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png" />
 </p>
 
 - Streamlines Image And Pdf Workflows Inside The Browser  
@@ -52,10 +52,6 @@
 ---
 
 ## 📚 Edu Kits – From Confused To Capable
-
-<p align="center">
-  <img src="YOUR_EDUKITS_BANNER_URL" alt="Edu Kits Banner" />
-</p>
 
 **Python Edu Kit**  
 - Step-By-Step Programs For Core Concepts  
