@@ -6,7 +6,7 @@
 <h1 align="center">Ayush Jha</h1>
 
 <p align="center">
-  <b>MCA <a href = "https://iiitranchi.ac.in/">@I.I.I.T Ranchi</a></b> • <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT -WPU</a></b><br/>
+  <b>MCA <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b><br/>
   Founder<a href = "https://amatyapathsolutions.netlify.app">@ Amatyapath Solutions</a>
   > A Sole-Prop. DigiTech Agency
 </p>
@@ -69,20 +69,6 @@
 ---
 
 ## 📊 Github In Numbers
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ayushdebugz&show_icons=true&include_all_commits=true&rank_icon=github&hide_title=true&hide=issues"
-    alt="Ayush GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdebugz&layout=compact&langs_count=8&card_width=360"
-    alt="Top Languages" 
-  />
-</p>
 
 <p align="center">
   <img
