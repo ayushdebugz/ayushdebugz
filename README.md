@@ -6,8 +6,9 @@
 <h1 align="center">Ayush Jha</h1>
 
 <p align="center">
-  <b>MCA @I.I.I.T-Ranchi</b> • <b>Alumnus, MIT -WPU</b><br/>
-  Founder: <a href = "https://amatyapathsolutions.netlify.app">@Amatyapath Solutions</a>
+  <b>MCA @I.I.I.T-Ranchi</b> • <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT -WPU</a></b><br/>
+  Founder<a href = "https://amatyapathsolutions.netlify.app">@ Amatyapath Solutions</a>
+  > A Sole-Prop. DigiTech Agency
 </p>
 
 ---
@@ -28,7 +29,7 @@
 </p>
 
 - Designed For People Who Actually Work At Night  
-- Focused On Readability, Contrast, And Calm Ui  
+- Focused On Readability, Contrast, And Calm UI  
 - Opinionated, Minimal, And Distraction Free  
 
 > Smart Dark Mode, Not Just Inverted Colors.
@@ -38,7 +39,7 @@
 ## 🖼 Pixdf – Images And Pdfs, Under Control
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAGQooA9fsQ/YUoBEQXDvJ1nHql8PfC5nA/edit?utm_content=DAGQooA9fsQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+  <img src="" />
 </p>
 
 - Streamlines Image And Pdf Workflows Inside The Browser  
@@ -64,31 +65,6 @@
 - Built To Help Students Go Beyond Theory  
 
 > Made For Juniors, Friends, And Anyone Starting Out.
-
----
-
-## 🧠 Tech Stack
-
-**Languages**  
-Python • Javascript • C • C++ • Php  
-
-**Web And Ui**  
-Html • Css • React • Tailwind • Design Systems • MERN Stack
-
-**Tools And Platforms**  
-Git • Github • Npm • Figma • Unity • Blender  
-
----
-
-## 🚩 Featured Repositories
-
-| Project Name        | Description                           | Tech Stack      |
-|---------------------|---------------------------------------|-----------------|
-| Noirshade           | Smart Dark Mode For The Web           | Javascript, Css |
-| Pixdf               | Image And Pdf Workflow Toolkit        | Javascript      |
-| Python Edu Kit      | Beginner Friendly Python Programs     | Python          |
-| Javascript Edu Kit  | Practical Javascript Learning Repo    | Javascript      |
-| Meta Front-End Repo | Projects From Meta Front-End Program  | Html, Css, Js   |
 
 ---
 
@@ -120,17 +96,21 @@ Git • Github • Npm • Figma • Unity • Blender
 ## ✍ Writing And Presence
 
 - Blog: 
-- Portfolio: [Developer Portfolio](https://ayu5hjha.netlify.app/)  
-
-
-
-## 🧭 Philosophy
-
-> Build What You Wish Existed.  
-> Learn Fast, Ship Faster.  
-> Stoic Grind, Long Game, Silent Flex.
+- Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)  
 
 ---
+
+
+## 🚩 Featured Repositories
+
+| Project Name        | Description                           | Tech Stack      |
+|---------------------|---------------------------------------|-----------------|
+| Python Edu Kit      | Beginner Friendly Python Programs     | Python          |
+| Javascript Edu Kit  | Practical Javascript Learning Repo    | Javascript      |
+| Meta Front-End Repo | Projects From Meta Front-End Program  | Html, Css, Js   |
+
+---
+
 ### 🌐 Connect
 
 - 🔗 LinkedIn: [in/ayushdebugz](https://www.linkedin.com/in/ayushdebugz)  
