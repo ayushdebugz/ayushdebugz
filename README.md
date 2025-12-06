@@ -11,6 +11,7 @@
   > A Sole-Prop. DigiTech Agency
 </p>
 
+<br>
 ---
 
 ## 🚀 Current Focus
@@ -25,7 +26,7 @@
 ## 🌑 Noirshade – Dark Mode Browser Extension
 
 <p align="center">
-  <img src="YOUR_NOIRSHADE_BANNER_URL" alt="NoirShade Banner" />
+  <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png" width="auto"/>
 </p>
 
 - Designed For People Who Actually Work At Night  
@@ -52,9 +53,9 @@
 
 ## 📚 Edu Kits – From Confused To Capable
 
-<!-- <p align="center">
+<p align="center">
   <img src="YOUR_EDUKITS_BANNER_URL" alt="Edu Kits Banner" />
-</p> -->
+</p>
 
 **Python Edu Kit**  
 - Step-By-Step Programs For Core Concepts  
@@ -89,11 +90,13 @@
 
 ## 🚩 Featured Repositories
 
+<p align="center">
 | Project Name        | Description                           | Tech Stack      |
 |---------------------|---------------------------------------|-----------------|
 | Python Edu Kit      | Beginner Friendly Python Programs     | Python          |
 | Javascript Edu Kit  | Practical Javascript Learning Repo    | Javascript      |
 | Meta Front-End Repo | Projects From Meta Front-End Program  | Html, Css, Js   |
+</p>
 
 ---
 
