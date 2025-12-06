@@ -3,15 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=ayushdebugz&label=Profile%20Views&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="YOUR_MAIN_HEADER_BANNER_URL" alt="Ayush Jha Banner" />
-</p>
-
 <h1 align="center">Ayush Jha</h1>
 
 <p align="center">
   <b>MCA @I.I.I.T-Ranchi</b> • <b>Alumnus, MIT -WPU</b><br/>
-  Founder: [@Amatyapath Solutions](https://amatyapathsolutions.netlify.app)
+  Founder: <a href = "https://amatyapathsolutions.netlify.app">@Amatyapath Solutions</a>
 </p>
 
 ---
@@ -21,11 +17,11 @@
 - Building Useful Browser Extensions And Tools  
 - Designing Frictionless, Minimal Web Experiences  
 - Exploring AI, Product Thinking, And Indie Building  
-- Choosing Long-Term Games Over Short-Term Hype  
+- Choosing Long-Term Growth Over Short-Term Hype  
 
 ---
 
-## 🌑 Noirshade – Dark Mode As A Product
+## 🌑 Noirshade – Dark Mode Browser Extension
 
 <p align="center">
   <img src="YOUR_NOIRSHADE_BANNER_URL" alt="NoirShade Banner" />
@@ -42,7 +38,7 @@
 ## 🖼 Pixdf – Images And Pdfs, Under Control
 
 <p align="center">
-  <img src="YOUR_PIXDF_BANNER_URL" alt="PixDF Banner" />
+  <img src="https://www.canva.com/design/DAGQooA9fsQ/YUoBEQXDvJ1nHql8PfC5nA/edit?utm_content=DAGQooA9fsQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
 </p>
 
 - Streamlines Image And Pdf Workflows Inside The Browser  
