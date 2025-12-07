@@ -23,6 +23,7 @@
   </p>
   
 > A Sole-Proprietorship DigiTech Agency.
+
 </p>
 
 <br>
@@ -49,7 +50,7 @@ DarkMode Browser Extension.
 Designed For People Who Actually Work At Night.  
 Focused On Readability, Contrast, And Calm UI.  
 Opinionated, Minimal, And Distraction Free.  
-
+<br>
 > Smart Dark Mode, Not Just Inverted Colors.
 
 
@@ -68,7 +69,7 @@ Images & Pdfs, Under Control.
 Streamlines Image And Pdf Workflows Inside The Browser. 
 Built To Be Fast, Simple, And Practical.  
 Meant For Students, Developers, And Knowledge Workers.  
-
+<br>
 > Small Utility, Big Quality Of Life Upgrade.
 
 
@@ -89,7 +90,7 @@ Clean, Commented, And Beginner Friendly.
 **Javascript Edu Kit**  
 Practical Snippets, Mini Projects, And Patterns.  
 Built To Help Students Go Beyond Theory. 
-
+<br>
 > Made For Juniors, Friends, And Anyone Starting Out.
 
 </p>
@@ -135,9 +136,9 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 <h1>
 Connect 🌐
 </h1>
-🔗 LinkedIn:(https://www.linkedin.com/in/ayushdebugz)<br>
-ℹ️ Instagram:(https://www.instagram.com/ayu5hxjha/)<br>
-🎨 Figma:(https://www.figma.com/@ayushjha3)<br>
+🔗 LinkedIn: (https://www.linkedin.com/in/ayushdebugz)<br>
+ℹ️ Instagram: (https://www.instagram.com/ayu5hxjha/)<br>
+🎨 Figma: (https://www.figma.com/@ayushjha3)<br>
 
 ---
 </p>
