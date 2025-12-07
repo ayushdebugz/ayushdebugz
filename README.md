@@ -6,7 +6,12 @@
 <h1>Ayush Jha</h1>
 
 <p>
-  <b>MCA <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b><br/>
+  <b>MCA <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <br>
+  <p align="center">
+    <img src="https://github.com/ayushdebugz/sprites/blob/main/Indian%20Institute%20Of%20Information%20Technology%20Ranchi.png"/>
+  </p>
+  <br>
+  <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b><br/>
   Founder <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a> <br>
   <p align="center">
     <img src="https://github.com/ayushdebugz/sprites/blob/main/AS%20C.png"/>
@@ -18,7 +23,7 @@
 <br>
 
 <p>
-<h1>Current Focus 🚀 </h1>
+<h1 align="center">Current Focus 🚀 </h1>
 
 Building Useful Browser Extensions And Tools  
 Designing Frictionless, Minimal Web Experiences  
@@ -26,15 +31,16 @@ Exploring AI, Product Thinking, And Indie Building
 Choosing Long-Term Growth Over Short-Term Hype
 
 </p>
+>br>
 
 <p >
-<h1>
-NoirShade –DarkMode Browser Extension 🌑 </h1>
+<h1 align="center">
+NoirShade</h1>
 
 <p align="center">
   <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png"/>
 </p>
-
+DarkMode Browser Extension
 Designed For People Who Actually Work At Night  
 Focused On Readability, Contrast, And Calm UI  
 Opinionated, Minimal, And Distraction Free  
@@ -47,13 +53,13 @@ Opinionated, Minimal, And Distraction Free
 <br>
 
 <p>
-<h1>
-PixDF –Images & Pdfs, Under Control 🖼 
+<h1 align="center">
+PixDF 
 </h1>
 <p align="center">
   <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png" />
 </p>
-
+Images & Pdfs, Under Control
 Streamlines Image And Pdf Workflows Inside The Browser  
 Built To Be Fast, Simple, And Practical  
 Meant For Students, Developers, And Knowledge Workers  
@@ -65,9 +71,12 @@ Meant For Students, Developers, And Knowledge Workers
 <br>
 
 <p>
-<h1>
-Edu Kits –From Confused To Capable 📚 
+<h1 align="center">
+Edu Kits 
 </h1>
+
+From Confused To Capable
+
 **Python Edu Kit**  
 Step-By-Step Programs For Core Concepts  
 Clean, Commented, And Beginner Friendly  
@@ -82,7 +91,7 @@ Built To Help Students Go Beyond Theory
 <br>
 
 
-<h1>Github In Numbers 📊 </h1>
+<h1 align = "center">Github In Numbers</h1>
 
 <p align="center">
   <img
@@ -95,15 +104,15 @@ Built To Help Students Go Beyond Theory
 
 <p >
 
-<h1>Writing & Presence ✍</h1>
+<h1 align="center">Writing & Presence</h1>
 
 Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)  
 </p>
 
 <br>
 
-<p >
-<h1>Featured Repositories 🚩</h1>
+<p>
+<h1 align="center">Featured Repositories</h1>
 
   
   | Project Name        | Description                           | Tech Stack      |
@@ -118,12 +127,12 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 <br>
 
 <p>
-<h1>
+<h1 align="center">
 Connect 🌐
 </h1>
-🔗 LinkedIn: [Profile](https://www.linkedin.com/in/ayushdebugz)  
-ℹ️ Instagram: [Profile](https://www.instagram.com/ayu5hxjha/#)  
-🎨 Figma: [Profile](https://www.figma.com/@ayushjha3)
+🔗 LinkedIn: [Profile](https://www.linkedin.com/in/ayushdebugz)  <br>
+ℹ️ Instagram: [Profile](https://www.instagram.com/ayu5hxjha/#)  <br>
+🎨 Figma: [Profile](https://www.figma.com/@ayushjha3) <br>
 
 ---
 </p>
