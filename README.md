@@ -7,9 +7,9 @@
 
 <p>
   <b>Pursuing MCA, <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <br>
-  <p align="center" style="pointer-events:none;">
+  <a href="https://iiitranchi.ac.in/" align="center" style="pointer-events:none;">
     <img src="https://github.com/ayushdebugz/sprites/blob/main/Indian%20Institute%20Of%20Information%20Technology%20Ranchi.png" />
-  </p>
+  </a>
   <br>
   <b>Alumnus, <a href = "https://mitwpu.edu.in/">MIT-WPU</a></b> •
 <br>
