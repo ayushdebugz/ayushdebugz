@@ -6,7 +6,7 @@
 <h1>Ayush Jha</h1>
 
 <p>
-  <b>Pursuing MCA At <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <br>
+  <b>Pursuing MCA, <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <br>
   <p align="center">
     <img src="https://github.com/ayushdebugz/sprites/blob/main/Indian%20Institute%20Of%20Information%20Technology%20Ranchi.png"/>
   </p>
@@ -18,7 +18,7 @@
   <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp"/>
   </p>
   <br>
-  Founder <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a> <br>
+  Founder, <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a> <br>
   <p align="center">
     <img src="https://github.com/ayushdebugz/sprites/blob/main/AS%20C.png"/>
   </p>
@@ -29,9 +29,8 @@
 
 <br>
 
-<p>
-<h1>Current Focus 🚀 </h1>
-
+<p><h1>Current Focus</h1>
+  
 Building Useful Browser Extensions And Tools.  
 Designing Frictionless, Minimal Web Experiences.
 Exploring AI, Product Thinking, And Indie Building. 
@@ -42,12 +41,12 @@ Choosing Long-Term Growth Over Short-Term Hype.
 
 <p >
 <h1>
-NoirShade</h1>
+NoirShade -DarkMode Extension.</h1>
 
 <p>
   <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png"/>
 </p>
-DarkMode Browser Extension.
+
 Designed For People Who Actually Work At Night.  
 Focused On Readability, Contrast, And Calm UI.  
 Opinionated, Minimal, And Distraction Free.  
@@ -60,13 +59,11 @@ Opinionated, Minimal, And Distraction Free.
 <br>
 
 <p>
-<h1>
-PixDF 
-</h1>
+<h1>PixDF -JPEG2PDF Extension.</h1>
 <p>
   <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png" />
 </p>
-Images & Pdfs, Under Control.
+
 Streamlines Image And Pdf Workflows Inside The Browser. 
 Built To Be Fast, Simple, And Practical.  
 Meant For Students, Developers, And Knowledge Workers.  
