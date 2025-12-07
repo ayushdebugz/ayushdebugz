@@ -18,7 +18,7 @@
   <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp"/>
   </p>
   <br>
-  Founder, <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a> <br>
+  <b>Founder, <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a></b> <br>
   <p align="center">
     <img src="https://github.com/ayushdebugz/sprites/blob/main/AS%20C.png"/>
   </p>
