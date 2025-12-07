@@ -14,15 +14,15 @@
   <b>Alumnus, <a href = "https://mitwpu.edu.in/">MIT-WPU</a></b> •
 <br>
   <br>
-  <p align="center" style="pointer-events:none;">
+  <a href = "https://mitwpu.edu.in/" align="center" style="pointer-events:none;">
   <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" style="pointer-events:none;"/>
-  </p>
+  </a>
   <br>
   <b>Founder, <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a></b>
 <br>
-  <p align="center" style="pointer-events:none;">
+  <a href = "https://amatyapathsolutions.netlify.app" align="center" style="pointer-events:none;">
     <img src="https://github.com/ayushdebugz/sprites/blob/main/AS%20C.png" style="pointer-events:none;"/>
-  </p>
+  </a>
   
 > A Sole-Proprietorship DigiTech Agency.
 
