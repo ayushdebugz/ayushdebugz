@@ -11,7 +11,7 @@
     <img src="https://github.com/ayushdebugz/sprites/blob/main/Indian%20Institute%20Of%20Information%20Technology%20Ranchi.png"/>
   </p>
   <br>
-  <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b>
+  <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b> •
   <br/>
   <p align="center">
   <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp"/>
@@ -135,9 +135,9 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 <h1>
 Connect 🌐
 </h1>
-🔗 LinkedIn: [Profile](https://www.linkedin.com/in/ayushdebugz)  <br>
-ℹ️ Instagram: [Profile](https://www.instagram.com/ayu5hxjha/#)  <br>
-🎨 Figma: [Profile](https://www.figma.com/@ayushjha3) <br>
+🔗 LinkedIn:(https://www.linkedin.com/in/ayushdebugz)<br>
+ℹ️ Instagram:(https://www.instagram.com/ayu5hxjha/)<br>
+🎨 Figma:(https://www.figma.com/@ayushjha3)<br>
 
 ---
 </p>
