@@ -8,6 +8,9 @@
 <p>
   <b>MCA <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b><br/>
   Founder <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a> <br>
+  <p align="center">
+    <img src="https://github.com/ayushdebugz/sprites/blob/main/AS%20C.png"/>
+  </p>
   
 > A Sole-Proprietorship DigiTech Agency.
 </p>
@@ -28,8 +31,8 @@ Choosing Long-Term Growth Over Short-Term Hype
 <h1>
 NoirShade –DarkMode Browser Extension 🌑 </h1>
 
-<p>
-  <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png" width="auto" height= "auto"/>
+<p align="center">
+  <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png"/>
 </p>
 
 Designed For People Who Actually Work At Night  
@@ -47,7 +50,7 @@ Opinionated, Minimal, And Distraction Free
 <h1>
 PixDF –Images & Pdfs, Under Control 🖼 
 </h1>
-<p>
+<p align="center">
   <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png" />
 </p>
 
@@ -118,7 +121,7 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 <h1>
 Connect 🌐
 </h1>
-🔗 LinkedIn: [in/ayushdebugz](https://www.linkedin.com/in/ayushdebugz)  
+🔗 LinkedIn: [Profile](https://www.linkedin.com/in/ayushdebugz)  
 ℹ️ Instagram: [Profile](https://www.instagram.com/ayu5hxjha/#)  
 🎨 Figma: [Profile](https://www.figma.com/@ayushjha3)
 
