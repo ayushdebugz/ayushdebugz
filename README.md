@@ -11,7 +11,7 @@
     <img src="https://github.com/ayushdebugz/sprites/blob/main/Indian%20Institute%20Of%20Information%20Technology%20Ranchi.png"/>
   </p>
   <br>
-  <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b> •
+  <b>Alumnus, <a href = "https://mitwpu.edu.in/">MIT-WPU</a></b> •
 <br>
   <br>
   <p align="center">
@@ -43,7 +43,9 @@ Choosing Long-Term Growth Over Short-Term Hype.
 NoirShade -DarkMode Extension.</h1>
 
 <p>
+  <a href = "https://chromewebstore.google.com/detail/noirshade-dark-mode-exten/mpcdbcckdgcmknomhjmfcnobklikhcih" target = "_blank">
   <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png"/>
+  </a>
 </p>
 
 Designed For People Who Actually Work At Night.  
@@ -60,7 +62,9 @@ Opinionated, Minimal, And Distraction Free.
 <p>
 <h1>PixDF -JPEG2PDF Extension.</h1>
   <p>
-    <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png" />
+    <a href = "https://chromewebstore.google.com/detail/pixdf-jpeg2pdf-converter/ofbpnjamlgpjcjfefcidgjboigafoald" target="_blank">
+      <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png">
+    </a>
   </p>
 
 Streamlines Image And Pdf Workflows Inside The Browser. 
