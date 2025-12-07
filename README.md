@@ -51,9 +51,9 @@ DarkMode Browser Extension.
 Designed For People Who Actually Work At Night.  
 Focused On Readability, Contrast, And Calm UI.  
 Opinionated, Minimal, And Distraction Free.  
-<br>
-> Smart Dark Mode, Not Just Inverted Colors.
 
+
+> Smart Dark Mode, Not Just Inverted Colors.
 
 </p>
 
@@ -70,9 +70,8 @@ Images & Pdfs, Under Control.
 Streamlines Image And Pdf Workflows Inside The Browser. 
 Built To Be Fast, Simple, And Practical.  
 Meant For Students, Developers, And Knowledge Workers.  
-<br>
-> Small Utility, Big Quality Of Life Upgrade.
 
+> Small Utility, Big Quality Of Life Upgrade.
 
 </p>
 <br>
@@ -91,8 +90,11 @@ Clean, Commented, And Beginner Friendly.
 **Javascript Edu Kit**  
 Practical Snippets, Mini Projects, And Patterns.  
 Built To Help Students Go Beyond Theory. 
-<br>
+
+
 > Made For Juniors, Friends, And Anyone Starting Out.
+
+
 
 </p>
 <br>
