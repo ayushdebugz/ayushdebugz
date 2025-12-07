@@ -35,7 +35,6 @@ Building Useful Browser Extensions And Tools.
 Designing Frictionless, Minimal Web Experiences.
 Exploring AI, Product Thinking, And Indie Building. 
 Choosing Long-Term Growth Over Short-Term Hype.
-
 </p>
 <br>
 
@@ -60,9 +59,9 @@ Opinionated, Minimal, And Distraction Free.
 
 <p>
 <h1>PixDF -JPEG2PDF Extension.</h1>
-<p>
-  <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png" />
-</p>
+  <p>
+    <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png" />
+  </p>
 
 Streamlines Image And Pdf Workflows Inside The Browser. 
 Built To Be Fast, Simple, And Practical.  
