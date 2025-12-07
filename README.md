@@ -11,8 +11,9 @@
     <img src="https://github.com/ayushdebugz/sprites/blob/main/Indian%20Institute%20Of%20Information%20Technology%20Ranchi.png"/>
   </p>
   <br>
-  <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b> • <br>
-
+  <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b> •
+<br>
+  <br>
   <p align="center">
   <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp"/>
   </p>
