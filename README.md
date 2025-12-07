@@ -29,7 +29,7 @@ Choosing Long-Term Growth Over Short-Term Hype
 🌑 Noirshade – Dark Mode Browser Extension
 
 <p>
-  <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png" width="auto"/>
+  <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png" width="auto" height= "auto"/>
 </p>
 
 Designed For People Who Actually Work At Night  
