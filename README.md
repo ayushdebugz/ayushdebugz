@@ -13,11 +13,12 @@
   <br>
   <b>Alumnus, <a href = "https://mitwpu.edu.in/">MIT-WPU</a></b> •
 <br>
-  <br>
+
   <a href = "https://mitwpu.edu.in/" align="center" style="pointer-events:none;">
   <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" style="pointer-events:none;"/>
   </a>
   <br>
+  <hr>
   <b>Founder, <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a></b>
 <br>
   <a href = "https://amatyapathsolutions.netlify.app" align="center" style="pointer-events:none;">
