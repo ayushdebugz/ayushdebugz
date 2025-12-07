@@ -6,12 +6,17 @@
 <h1>Ayush Jha</h1>
 
 <p>
-  <b>MCA <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <br>
+  <b>Pursuing MCA At <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <br>
   <p align="center">
     <img src="https://github.com/ayushdebugz/sprites/blob/main/Indian%20Institute%20Of%20Information%20Technology%20Ranchi.png"/>
   </p>
   <br>
-  <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b><br/>
+  <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b>
+  <br/>
+  <p align="center">
+  <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" alt="coding" width="300px" />
+  </p>
+  <br>
   Founder <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a> <br>
   <p align="center">
     <img src="https://github.com/ayushdebugz/sprites/blob/main/AS%20C.png"/>
@@ -23,27 +28,27 @@
 <br>
 
 <p>
-<h1 align="center">Current Focus 🚀 </h1>
+<h1>Current Focus 🚀 </h1>
 
-Building Useful Browser Extensions And Tools  
-Designing Frictionless, Minimal Web Experiences  
-Exploring AI, Product Thinking, And Indie Building  
-Choosing Long-Term Growth Over Short-Term Hype
+Building Useful Browser Extensions And Tools.  
+Designing Frictionless, Minimal Web Experiences.
+Exploring AI, Product Thinking, And Indie Building. 
+Choosing Long-Term Growth Over Short-Term Hype.
 
 </p>
->br>
+<br>
 
 <p >
-<h1 align="center">
+<h1>
 NoirShade</h1>
 
-<p align="center">
+<p>
   <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png"/>
 </p>
-DarkMode Browser Extension
-Designed For People Who Actually Work At Night  
-Focused On Readability, Contrast, And Calm UI  
-Opinionated, Minimal, And Distraction Free  
+DarkMode Browser Extension.
+Designed For People Who Actually Work At Night.  
+Focused On Readability, Contrast, And Calm UI.  
+Opinionated, Minimal, And Distraction Free.  
 
 > Smart Dark Mode, Not Just Inverted Colors.
 
@@ -53,16 +58,16 @@ Opinionated, Minimal, And Distraction Free
 <br>
 
 <p>
-<h1 align="center">
+<h1>
 PixDF 
 </h1>
-<p align="center">
+<p>
   <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png" />
 </p>
-Images & Pdfs, Under Control
-Streamlines Image And Pdf Workflows Inside The Browser  
-Built To Be Fast, Simple, And Practical  
-Meant For Students, Developers, And Knowledge Workers  
+Images & Pdfs, Under Control.
+Streamlines Image And Pdf Workflows Inside The Browser. 
+Built To Be Fast, Simple, And Practical.  
+Meant For Students, Developers, And Knowledge Workers.  
 
 > Small Utility, Big Quality Of Life Upgrade.
 
@@ -71,19 +76,19 @@ Meant For Students, Developers, And Knowledge Workers
 <br>
 
 <p>
-<h1 align="center">
+<h1>
 Edu Kits 
 </h1>
 
 From Confused To Capable
 
 **Python Edu Kit**  
-Step-By-Step Programs For Core Concepts  
-Clean, Commented, And Beginner Friendly  
+Step-By-Step Programs For Core Concepts.  
+Clean, Commented, And Beginner Friendly.  
 
 **Javascript Edu Kit**  
-Practical Snippets, Mini Projects, And Patterns  
-Built To Help Students Go Beyond Theory  
+Practical Snippets, Mini Projects, And Patterns.  
+Built To Help Students Go Beyond Theory. 
 
 > Made For Juniors, Friends, And Anyone Starting Out.
 
@@ -91,7 +96,7 @@ Built To Help Students Go Beyond Theory
 <br>
 
 
-<h1 align = "center">Github In Numbers</h1>
+<h1>Github In Numbers</h1>
 
 <p align="center">
   <img
@@ -104,7 +109,7 @@ Built To Help Students Go Beyond Theory
 
 <p >
 
-<h1 align="center">Writing & Presence</h1>
+<h1>Writing & Presence</h1>
 
 Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)  
 </p>
@@ -112,7 +117,7 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 <br>
 
 <p>
-<h1 align="center">Featured Repositories</h1>
+<h1>Featured Repositories</h1>
 
   
   | Project Name        | Description                           | Tech Stack      |
@@ -127,7 +132,7 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 <br>
 
 <p>
-<h1 align="center">
+<h1>
 Connect 🌐
 </h1>
 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/ayushdebugz)  <br>
