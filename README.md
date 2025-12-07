@@ -8,19 +8,20 @@
 <p>
   <b>Pursuing MCA, <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <br>
   <p align="center">
-    <img src="https://github.com/ayushdebugz/sprites/blob/main/Indian%20Institute%20Of%20Information%20Technology%20Ranchi.png"/>
+    <img src="https://github.com/ayushdebugz/sprites/blob/main/Indian%20Institute%20Of%20Information%20Technology%20Ranchi.png"/>()
   </p>
   <br>
   <b>Alumnus, <a href = "https://mitwpu.edu.in/">MIT-WPU</a></b> •
 <br>
   <br>
   <p align="center">
-  <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp"/>
+  <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp"/>()
   </p>
   <br>
-  <b>Founder, <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a></b> <br>
+  <b>Founder, <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a></b>
+<br>
   <p align="center">
-    <img src="https://github.com/ayushdebugz/sprites/blob/main/AS%20C.png"/>
+    <img src="https://github.com/ayushdebugz/sprites/blob/main/AS%20C.png"/>()
   </p>
   
 > A Sole-Proprietorship DigiTech Agency.
