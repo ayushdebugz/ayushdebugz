@@ -14,7 +14,7 @@
   <b>Alumnus, <a href = "https://amatyapathsolutions.netlify.app">MIT-WPU</a></b>
   <br/>
   <p align="center">
-  <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" alt="coding" width="300px" />
+  <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp"/>
   </p>
   <br>
   Founder <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a> <br>
