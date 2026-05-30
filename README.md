@@ -6,7 +6,7 @@
 <h1>Ayush Jha</h1>
 
 <p>
-  <b>Pursuing MCA, <a href = "https://iiitranchi.ac.in/">IIT Patna</a></b> • <br>
+  <b>Pursuing MCA, <a href = "https://www.iitp.ac.in/">IIT Patna</a></b> • <br>
   <a href="https://iiitranchi.ac.in/" align="center" style="pointer-events:none;">
     <img src="https://github.com/ayushdebugz/sprites/blob/main/iitp-logo.png" />
   </a>
@@ -42,11 +42,11 @@ Choosing Long-Term Growth Over Short-Term Hype.
 
 <p >
 <h1>
-NoirShade -DarkMode Extension.</h1>
+NoirShade Extension.</h1>
 
 <p>
   <a href = "https://chromewebstore.google.com/detail/noirshade-dark-mode-exten/mpcdbcckdgcmknomhjmfcnobklikhcih" target = "_blank">
-  <img src="https://github.com/ayushdebugz/sprites/blob/main/NoirShade%20Small%20Promo%20Title.png"/>
+  <img src="https://github.com/ayushdebugz/sprites/blob/main/1.png"/>
   </a>
 </p>
 
@@ -62,10 +62,10 @@ Opinionated, Minimal, And Distraction Free.
 <br>
 
 <p>
-<h1>PixDF -JPEG2PDF Extension.</h1>
+<h1>pixDF Extension.</h1>
   <p>
     <a href = "https://chromewebstore.google.com/detail/pixdf-jpeg2pdf-converter/ofbpnjamlgpjcjfefcidgjboigafoald" target="_blank">
-      <img src="https://github.com/ayushdebugz/sprites/blob/main/PixDF%20Logo.png">
+      <img src="https://github.com/ayushdebugz/sprites/blob/main/2.png">
     </a>
   </p>
 
