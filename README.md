@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Founder @ Amatyapath Solutions • MCA @ IIT Patna • BCA @ MIT-WPU
+  Founder @ Amatyapath Solutions • MCA @ IIIT Ranchi [Academic Collab With IIT Patna] • BCA @ MIT-WPU
 </p>
 
 <br>
