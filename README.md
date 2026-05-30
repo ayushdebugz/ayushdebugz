@@ -152,18 +152,7 @@ Git • GitHub • Vercel
 
 <br>
 
-<!-- ================= GITHUB GRAPH ================= -->
 
-<h2>GitHub Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdebugz&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-<br>
 
 <!-- ================= CONNECT ================= -->
 
