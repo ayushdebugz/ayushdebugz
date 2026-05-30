@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Building Browser-First Products, Minimal Interfaces & Useful Digital Experiences.
+  Building Browser-First Products, Minimal Interfaces, SaaS/P & Useful Digital Experiences.
 </p>
 
 <p align="center">
