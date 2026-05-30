@@ -3,31 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=ayushdebugz&label=Profile%20Views&style=flat" alt="Profile Views" />
 </p>
 
-<p>
-  <b>Pursuing MCA, <a href = "https://www.iitp.ac.in/">IIT Patna</a></b> • <br>
-  <a href="https://iiitranchi.ac.in/" align="center" style="pointer-events:none;">
-    <img src="https://github.com/ayushdebugz/sprites/blob/main/iitp-logo.png" />
-  </a>
-  <br>
-  <b>Alumnus, <a href = "https://mitwpu.edu.in/">MIT-WPU</a></b> •
-<br>
-
-  <a href = "https://mitwpu.edu.in/" align="center" style="pointer-events:none;">
-  <img src="https://ztd-euwest2-prod-s3.s3.eu-west-2.amazonaws.com/wpu_mit_6c79a8dec5.webp" style="pointer-events:none;"/>
-  </a>
-  <br>
-  <hr>
-  <b>Founder, <a href = "https://amatyapathsolutions.netlify.app">Amatyapath Solutions</a></b>
-<br>
-  <a href = "https://amatyapathsolutions.netlify.app" align="center" style="pointer-events:none;">
-    <img src="https://github.com/ayushdebugz/sprites/blob/main/AS%20C.png" style="pointer-events:none;"/>
-  </a>
-  
-> A Sole-Proprietorship DigiTech Agency.
-
-</p>
-
-<br>
 
 <!-- ================= HERO ================= -->
 
@@ -46,6 +21,7 @@
 </p>
 
 <br>
+
 
 <!-- ================= ABOUT ================= -->
 
