@@ -52,7 +52,7 @@ Currently focused on creating lightweight, utility-driven products that help peo
 
 <h2>Featured Products</h2>
 
-<h3>🚀 PixDF</h3>
+<h3>⚙️ PixDF</h3>
 
 <p>
 Browser-first PDF utility toolkit designed to simplify image-to-PDF workflows through a fast and distraction-free experience.
