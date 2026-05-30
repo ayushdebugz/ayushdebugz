@@ -113,12 +113,6 @@ Built To Help Students Go Beyond Theory.
 
 <br>
 
-<p >
-
-<h1>Writing & Presence</h1>
-
-Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)  
-</p>
 
 <br>
 
@@ -141,9 +135,9 @@ Personal: [Developer Portfolio](https://ayu5hjha.netlify.app/)
 <h1>
 Connect 🌐
 </h1>
-🔗 LinkedIn: (https://www.linkedin.com/in/ayushdebugz)<br>
-ℹ️ Instagram: (https://www.instagram.com/ayu5hxjha/)<br>
-🎨 Figma: (https://www.figma.com/@ayushjha3)<br>
+LinkedIn: (https://www.linkedin.com/in/ayushdebugz)<br>
+Figma: (https://www.figma.com/@ayushjha3)<br>
+Steam: (https://steamcommunity.com/id/23xgyro/)<br>
 
 ---
 </p>
