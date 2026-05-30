@@ -6,9 +6,9 @@
 <h1>Ayush Jha</h1>
 
 <p>
-  <b>Pursuing MCA, <a href = "https://iiitranchi.ac.in/">IIIT Ranchi</a></b> • <br>
+  <b>Pursuing MCA, <a href = "https://iiitranchi.ac.in/">IIT Patna</a></b> • <br>
   <a href="https://iiitranchi.ac.in/" align="center" style="pointer-events:none;">
-    <img src="https://github.com/ayushdebugz/sprites/blob/main/Indian%20Institute%20Of%20Information%20Technology%20Ranchi.png" />
+    <img src="https://github.com/ayushdebugz/sprites/blob/main/iitp-logo.png" />
   </a>
   <br>
   <b>Alumnus, <a href = "https://mitwpu.edu.in/">MIT-WPU</a></b> •
