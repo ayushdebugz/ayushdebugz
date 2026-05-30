@@ -9,7 +9,7 @@
 <h1 align="center">Ayush Jha</h1>
 
 <p align="center">
-  <b>Design Engineer • Founder</b>
+  <b>Founder • Product Designer • Frontend Developer</b>
 </p>
 
 <p align="center">
