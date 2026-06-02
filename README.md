@@ -50,6 +50,30 @@ Currently focused on creating lightweight, utility-driven products that help peo
 
 <!-- ================= FEATURED WORK ================= -->
 
+<p>
+A personal portfolio showcasing product design, frontend engineering, and digital product development.
+</p>
+
+<a href="https://ayushjha-eta.vercel.app">
+Visit Portfolio →
+</a>
+
+<br><br>
+
+<h3>🌙 NoirShade</h3>
+
+<p>
+A dark mode extension designed for long working sessions.
+Focused on readability, visual comfort, and thoughtful contrast rather than simple color inversion.
+
+<a href="https://ambiguous-pocket-587.notion.site/NoirShade-CASE-STUDY-373e2765f7f580fab24ef0921f63910a">
+View Case Study →
+</a>
+
+</p>
+<br><br>
+
+
 <h2>Featured Products</h2>
 
 <h3>⚙️ PixDF</h3>
@@ -64,35 +88,6 @@ Browser-first PDF utility toolkit designed to simplify image-to-PDF workflows th
 
 <a href="https://chromewebstore.google.com/detail/pixdf-jpeg2pdf-converter/ofbpnjamlgpjcjfefcidgjboigafoald">
 View Product →
-</a>
-
-<br><br>
-
-<h3>🌙 NoirShade</h3>
-
-<p>
-A dark mode extension designed for long working sessions.
-Focused on readability, visual comfort, and thoughtful contrast rather than simple color inversion.
-</p>
-
-<p>
-<b>Tech:</b> Figma • JavaScript • CSS
-</p>
-
-<a href="https://chromewebstore.google.com/detail/noirshade-dark-mode-exten/mpcdbcckdgcmknomhjmfcnobklikhcih">
-View Product →
-</a>
-
-<br><br>
-
-<h3>🎨 Portfolio</h3>
-
-<p>
-A personal portfolio showcasing product design, frontend engineering, and digital product development.
-</p>
-
-<a href="https://ayushjha-eta.vercel.app">
-Visit Portfolio →
 </a>
 
 <br><br>
