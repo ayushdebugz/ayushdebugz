@@ -46,12 +46,8 @@ My work sits at the intersection of:
 Currently focused on creating lightweight, utility-driven products that help people work faster and better.
 </p>
 
-<hr>
-
-<!-- ================= FEATURED WORK ================= -->
-
 <p>
-For My Working Ethics showcasing product design, frontend engineering, and digital product development.
+To View My Working Ethics showcasing product design, frontend engineering, and digital product development.
 </p>
 
 <a href="https://ayushjha-eta.vercel.app">
@@ -61,7 +57,7 @@ Visit Portfolio →
 <br>
 <br>
 
-<h2>Featured Products</h2>
+<h2>FEATURED PRODUCTS</h2>
 
 <h3>🌙 NoirShade</h3>
 
@@ -76,7 +72,7 @@ Focused on readability, visual comfort, and thoughtful contrast rather than simp
 <a href="https://chromewebstore.google.com/detail/noirshade/mpcdbcckdgcmknomhjmfcnobklikhcih?hl=en">
 View Product →
 </a>
-
+<br> 
 <a href="https://ambiguous-pocket-587.notion.site/NoirShade-CASE-STUDY-373e2765f7f580fab24ef0921f63910a">
 View Case Study →
 </a>
@@ -85,7 +81,7 @@ View Case Study →
 <br><br>
 
 
-<h3>⚙️ PixDF</h3>
+<h3>⚙️ pixDF</h3>
 
 <p>
 Browser-first PDF utility toolkit designed to simplify image-to-PDF workflows through a fast and distraction-free experience.
@@ -98,12 +94,15 @@ Browser-first PDF utility toolkit designed to simplify image-to-PDF workflows th
 <a href="https://chromewebstore.google.com/detail/pixdf-jpeg2pdf-converter/ofbpnjamlgpjcjfefcidgjboigafoald">
 View Product →
 </a>
-
+<!-- <br> 
+<a href="https://ambiguous-pocket-587.notion.site/NoirShade-CASE-STUDY-373e2765f7f580fab24ef0921f63910a">
+View Case Study →
+</a> -->
 <br><br>
 
 <!-- ================= PHILOSOPHY ================= -->
 
-<h2>Design Philosophy</h2>
+<h2>DESIGN PHILOSPHY</h2>
 
 <p>
 Technology should disappear.
@@ -121,7 +120,7 @@ I believe great user experiences emerge when design decisions and engineering de
 
 <!-- ================= CURRENT FOCUS ================= -->
 
-<h2>Current Focus</h2>
+<h2>CURRENT FOCUS</h2>
 
 <ul>
   <li>Design Systems</li>
@@ -134,21 +133,21 @@ I believe great user experiences emerge when design decisions and engineering de
 
 <!-- ================= TECH STACK ================= -->
 
-<h2>Tech Stack</h2>
+<h2>TECH STACK</h2>
 
 <h3>Frontend</h3>
 
 <p>
-Next.js • React • TypeScript • Tailwind CSS
+Next.js • React • TypeScript • Tailwind CSS • bOOTsTRAP
 </p>
 
 <h3>Design</h3>
 
 <p>
-Figma • FigJam • Framer
+Notion • Figma • FigJam • Framer 
 </p>
 
-<h3>Tools</h3>
+<h3>TOOLS</h3>
 
 <p>
 Git • GitHub • Vercel
@@ -160,7 +159,7 @@ Git • GitHub • Vercel
 
 <!-- ================= CONNECT ================= -->
 
-<h2>Connect</h2>
+<h2>CONNECT</h2>
 
 <p>
 🌐 Portfolio:
