@@ -51,7 +51,7 @@ Currently focused on creating lightweight, utility-driven products that help peo
 <!-- ================= FEATURED WORK ================= -->
 
 <p>
-A personal portfolio showcasing product design, frontend engineering, and digital product development.
+Portfolio showcasing product design, frontend engineering, and digital product development.
 </p>
 
 <a href="https://ayushjha-eta.vercel.app">
@@ -59,6 +59,11 @@ Visit Portfolio →
 </a>
 
 <br><br>
+
+<hr>
+<br>
+
+<h2>Featured Products</h2>
 
 <h3>🌙 NoirShade</h3>
 
@@ -73,8 +78,6 @@ View Case Study →
 </p>
 <br><br>
 
-
-<h2>Featured Products</h2>
 
 <h3>⚙️ PixDF</h3>
 
