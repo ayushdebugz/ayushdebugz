@@ -25,7 +25,7 @@
 
 <!-- ================= ABOUT ================= -->
 
-<h2>About</h2>
+<h2>ABOUT</h2>
 
 <p>
 I enjoy designing and building products that reduce friction and solve practical problems.
@@ -46,22 +46,19 @@ My work sits at the intersection of:
 Currently focused on creating lightweight, utility-driven products that help people work faster and better.
 </p>
 
-<br>
 <hr>
 
 <!-- ================= FEATURED WORK ================= -->
 
 <p>
-Portfolio showcasing product design, frontend engineering, and digital product development.
+For My Working Ethics showcasing product design, frontend engineering, and digital product development.
 </p>
 
 <a href="https://ayushjha-eta.vercel.app">
 Visit Portfolio →
 </a>
 
-<br><br>
-
-<hr>
+<br>
 <br>
 
 <h2>Featured Products</h2>
@@ -73,7 +70,7 @@ A dark mode extension designed for long working sessions.
 Focused on readability, visual comfort, and thoughtful contrast rather than simple color inversion.
 
 <p>
-<b>Tech:</b> Figma • JavaScript • Manifest V3
+<b>Tech:</b> Figma • JavaScript • Manifest V3 • DOM • CSS Injection
 </p>
 
 <a href="https://chromewebstore.google.com/detail/noirshade/mpcdbcckdgcmknomhjmfcnobklikhcih?hl=en">
@@ -95,7 +92,7 @@ Browser-first PDF utility toolkit designed to simplify image-to-PDF workflows th
 </p>
 
 <p>
-<b>Tech:</b> Figma • JavaScript • Manifest V3
+<b>Tech:</b> Figma • JavaScript • Manifest V3 • pdfLib • Local Storage APIs
 </p>
 
 <a href="https://chromewebstore.google.com/detail/pixdf-jpeg2pdf-converter/ofbpnjamlgpjcjfefcidgjboigafoald">
