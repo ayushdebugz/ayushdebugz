@@ -47,6 +47,7 @@ Currently focused on creating lightweight, utility-driven products that help peo
 </p>
 
 <br>
+<hr>
 
 <!-- ================= FEATURED WORK ================= -->
 
@@ -70,6 +71,14 @@ Visit Portfolio →
 <p>
 A dark mode extension designed for long working sessions.
 Focused on readability, visual comfort, and thoughtful contrast rather than simple color inversion.
+
+<p>
+<b>Tech:</b> Figma • JavaScript • Manifest V3
+</p>
+
+<a href="https://chromewebstore.google.com/detail/noirshade/mpcdbcckdgcmknomhjmfcnobklikhcih?hl=en">
+View Product →
+</a>
 
 <a href="https://ambiguous-pocket-587.notion.site/NoirShade-CASE-STUDY-373e2765f7f580fab24ef0921f63910a">
 View Case Study →
